@@ -1,0 +1,17 @@
+Integrantes
+Claudio Araya Valenzuela
+
+
+Requisitos no funcionales
+
+Seguridad
+
+En el sistema el requisito de seguridad, se resuelve usando autentificacion de usarios con contraseña.
+
+Distintos Motores BD
+
+EL framework CodeIgniter permite trabajar con distintos motores de base datos.
+
+Escalabilidad
+
+Si aumenta el numero de canchas|clientes|gimnasio|horarios el sistema no tendria problema en escalar.
